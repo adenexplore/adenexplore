@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](https://batusolusindo.com/wp-content/uploads/2019/09/4-Hal-yang-Harus-Diwaspadai-Web-Developer-3.jpg)
 
 <!---
 adenexplore/adenexplore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
