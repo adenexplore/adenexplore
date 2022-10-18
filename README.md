@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![image.png]( {https://batusolusindo.com/wp-content/uploads/2019/09/4-Hal-yang-Harus-Diwaspadai-Web-Developer-3.jpg} )
+![[image.png](https://batusolusindo.com/wp-content/uploads/2019/09/4-Hal-yang-Harus-Diwaspadai-Web-Developer-3.jpg)]( {https://batusolusindo.com/wp-content/uploads/2019/09/4-Hal-yang-Harus-Diwaspadai-Web-Developer-3.jpg} )
 
 
 <!---
