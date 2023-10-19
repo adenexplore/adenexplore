@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![stack Overflow]([https://batusolusindo.com/wp-content/uploads/2019/09/4-Hal-yang-Harus-Diwaspadai-Web-Developer-3.jpg](https://img.freepik.com/free-vector/gradient-coding-developers-logo_23-2148809440.jpg))
+<img src="https://img.freepik.com/free-vector/gradient-coding-developers-logo_23-2148809440.jpg" />
 
 <!---
 adenexplore/adenexplore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
