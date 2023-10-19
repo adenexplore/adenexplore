@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img align="center" src="https://img.freepik.com/free-vector/gradient-coding-developers-logo_23-2148809440.jpg" width ="400px" height="400px"/>
+<img  src="https://img.freepik.com/free-vector/gradient-coding-developers-logo_23-2148809440.jpg" width ="200px" height="200px"/>
 
 <!---
 adenexplore/adenexplore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
