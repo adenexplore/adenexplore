@@ -113,6 +113,18 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adenexplore&show_icons=true&locale=en" alt="adenexplore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adenexplore&" alt="adenexplore" /></p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
+</picture>
+
+  </a>
+</p> 
 <!-- Garis -->
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
