@@ -12,6 +12,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm adenexplore</h1>
+<!-- Name Pack -->
+<p align="center">
+<a href="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineering;Open+Source+Developer+Advocate;Web+Developer+Get+Front+End+Dev;Technical+Network+Engineering;Technical+Support+Engineering;Technical+Internet+Enginnering;Data+Base+Administrator+Telkom" />
+</a><br>
+<!-- End -->
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adenexplore&label=Profile%20views&color=0e75b6&style=flat" alt="adenexplore" /> </p>
