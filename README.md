@@ -29,5 +29,3 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adenexplore&" alt="adenexplore" /></p>
 
-   <p><img align="center" src="https://github-profile-trophy.vercel.app/?user=adenexplore&" alt="adenexplore" /></a>
-
