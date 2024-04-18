@@ -3,9 +3,13 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<img  src="https://img.freepik.com/free-vector/gradient-coding-developers-logo_23-2148809440.jpg" width ="200px" height="200px"/>
-
+<!-- Logo -->
+<p align="center">
+  <img width="250" src="[https://avatars.githubusercontent.com/u/87259393?v=4](https://img.freepik.com/free-vector/gradient-coding-developers-logo_23-2148809440.jpg)" />  
+  <h2 align="center"> My Github Profile </h2>
+  <p align="center">🏆 Achievements In Writing program Code 🏆</p>
+</p>
+<!-- End -->
 <!---
 adenexplore/adenexplore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -112,7 +116,14 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adenexplore&show_icons=true&locale=en" alt="adenexplore" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adenexplore&" alt="adenexplore" /></p>
+
+
+<!-- Garis -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End -->
+
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
