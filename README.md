@@ -4,14 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-  <style>
-  img .cek {
-    border-radius: 50%;
-  }
-</style>
 <!-- Logo -->
 <p align="center">
-  <img width="250" class="cek" src="https://images.cakeresume.com/6XmyB/aden-rifai/dfac9a3e-85cc-4d30-9871-cb7d3d98758a.png" />  
+  <img width="250" radius="50%" src="https://images.cakeresume.com/6XmyB/aden-rifai/dfac9a3e-85cc-4d30-9871-cb7d3d98758a.png" />  
   <h2 align="center"> My Github Profile </h2>
   <p align="center">🏆 Achievements In Writing program Code 🏆</p>
 </p>
