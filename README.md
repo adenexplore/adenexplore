@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 <!-- Logo -->
 <p align="center">
-  <img width="250" src="[https://avatars.githubusercontent.com/u/87259393?v=4](https://img.freepik.com/free-vector/gradient-coding-developers-logo_23-2148809440.jpg)" />  
+  <img width="250" src="https://images.cakeresume.com/6XmyB/aden-rifai/dfac9a3e-85cc-4d30-9871-cb7d3d98758a.png" />  
   <h2 align="center"> My Github Profile </h2>
   <p align="center">🏆 Achievements In Writing program Code 🏆</p>
 </p>
